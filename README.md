@@ -41,6 +41,7 @@ This project implements a **32-bit 5-stage pipelined MIPS processor** entirely i
 - `tb/register_tb.v`: Register file testbench.
 - `test.asm`: MIPS test instructions.
 - `instr.txt`: Program memory.
+- `init_instrmem.py`: Initialize program memory with all 0's.
 
 ## Simulation
 
