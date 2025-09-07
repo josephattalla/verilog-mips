@@ -39,6 +39,8 @@ This project implements a **32-bit 5-stage pipelined MIPS processor** entirely i
 - `tb/alu_tb.v`: ALU testbench.
 - `tb/instrmem_tb.v`: Instruction memory testbench.
 - `tb/register_tb.v`: Register file testbench.
+- `test.asm`: MIPS test instructions.
+- `instr.txt`: Program memory.
 
 ## Simulation
 
